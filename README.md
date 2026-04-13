@@ -20,7 +20,7 @@ I design and ship privacy-first, agent-ready systems — from on-device iOS appl
 
 ### 🔐 [Undisk MCP](https://mcp.undisk.app) — The Undo-First File Workspace for AI Agents
 
-The safest way to let AI agents work with files. Undisk is a remote MCP server that gives Claude, Cursor, Copilot, and any MCP-compatible agent scoped, reversible access to a versioned file workspace — so they can read, write, and search without ever becoming a dangerous "delete everything" bot.
+The safest way to let AI agents work with files. Undisk MCP is a remote MCP server that gives Claude, Cursor, Copilot, and any MCP-compatible agent scoped, reversible access to a versioned file workspace — so they can read, write, and search without ever becoming a dangerous "delete everything" bot.
 
 | Capability | Detail |
 |---|---|
@@ -101,7 +101,7 @@ Dev Practice    Spec-Driven Development (SDD) · TDD · Immutable infrastructure
 ## What I'm Working On
 
 - 🚀 Scaling [Undisk MCP](https://mcp.undisk.app) — SSO (SAML 2.0 + OIDC), Organizations, real-time audit webhook streaming for enterprise SIEM integration
-- 🤝 [E2B partnership](https://mcp.undisk.app/e2b) — $20K compute grant establishing Undisk + E2B as the de facto "Storage + Compute" architecture for AI agents
+- 🤝 [E2B partnership](https://mcp.undisk.app/e2b) — $20K compute grant establishing Undisk MCP + E2B as the de facto "Storage + Compute" architecture for AI agents
 - 📱 Growing [Bayan](https://trybayan.com) — expanding the canonical corpus and refining on-device NLP for classical Persian poetry
 - 📐 Evolving Spec-Driven Development tooling — building the workflow where specifications are the source of truth and code is a derived artifact
 

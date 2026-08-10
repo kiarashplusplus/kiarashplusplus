@@ -11,8 +11,6 @@ I design and ship privacy-first, agent-ready systems — from on-device iOS appl
 ## Core Philosophy
 
 - **Spec-Driven Development (SDD)** — Every feature begins as a machine-readable spec before a single line of code is written. Specifications are the source of truth; code is a derived artifact.
-- **Privacy-First Architecture** — Data stays on-device or under user control. Zero-knowledge encryption and scoped access are defaults, not afterthoughts.
-- **Undo-First Infrastructure** — AI agents need the power to act and the safety net to reverse. Every mutation is versioned, auditable, and reversible in under 50 ms.
 
 ---
 

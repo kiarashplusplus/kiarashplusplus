@@ -16,6 +16,16 @@ I design and ship privacy-first, agent-ready systems — from on-device iOS appl
 
 ---
 
+## Experience
+
+### Engineer · STLabs
+
+Built [mcp.stlabs.com](https://mcp.stlabs.com), bringing governed STLabs service-management workflows into the AI assistants where investigations begin. Agents authenticate through the user's STLabs account, inherit existing permissions and visibility rules, and leave actions in the same audit trail as all other work.
+
+→ [**Bring Your Own Agent: Introducing mcp.stlabs.com**](https://stlabs.com/engineering/bring-your-own-agent)
+
+---
+
 ## Flagship Projects
 
 ### 🔐 [Undisk MCP](https://mcp.undisk.app) — The Undo-First File Workspace for AI Agents

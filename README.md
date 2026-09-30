@@ -4,7 +4,7 @@
 
 I design and ship privacy-first, agent-ready systems — from on-device iOS applications to remote Model Context Protocol (MCP) servers. My work sits at the intersection of zero-knowledge encryption, immutable audit trails, and developer-facing AI tooling.
 
-📍 Nassau Bay, Texas &nbsp;·&nbsp; 🌐 [25x.codes](https://25x.codes) &nbsp;·&nbsp; 🔧 [mcp.undisk.app](https://mcp.undisk.app)
+📍 Nassau Bay, Texas &nbsp;·&nbsp; 🌐 [25x.codes](https://25x.codes) &nbsp;·&nbsp; 🔧 [mcp.undisk.app](https://mcp.undisk.app) &nbsp;·&nbsp; 🎤 [interviewreadynot.com](https://interviewreadynot.com)
 
 ---
 
@@ -25,6 +25,23 @@ Built MCP for [stlabs.com](https://stlabs.com), bringing STLabs service-manageme
 ---
 
 ## Flagship Projects
+
+### 🎤 [InterviewReadyNot](https://interviewreadynot.com): A Free AI Mock Interview Nobody Has Passed
+
+A public interview challenge I cofounded with Jinane Amal. Candidates answer six common interview questions out loud in the browser, and five independent AI judges from Anthropic, OpenAI and xAI score every answer without seeing each other's verdicts. Everyone gets a coach report quoting their own words, with notes on filler words, pace and their weakest answer. Passing takes a yes from all five judges, three runs in a row; nobody has passed yet.
+
+| Piece | Detail |
+|---|---|
+| **Judging panel** | 5 seats (Substance, Delivery, Integrity, Skeptic, Anchor) × 3 runs, unanimous pass required, quotes verified against the transcript |
+| **Pipeline** | Browser recording → transcription → 15 independent verdicts → coach report, with queued retries when a judge fails |
+| **Privacy** | Recording only after consent; reports kept 90 days |
+| **Cost** | About $0.08–0.15 per attempt across three AI labs |
+
+**Stack:** Cloudflare Workers · KV · Queues · Email · Azure AI Foundry (Claude, GPT, Grok) · three.js
+
+→ [**Take the free AI mock interview**](https://interviewreadynot.com/interview) &nbsp;|&nbsp; [interviewreadynot.com](https://interviewreadynot.com)
+
+---
 
 ### 🔐 [Undisk MCP](https://mcp.undisk.app) — The Undo-First File Workspace for AI Agents
 

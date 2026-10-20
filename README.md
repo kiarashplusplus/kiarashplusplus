@@ -28,7 +28,7 @@ Built MCP for [stlabs.com](https://stlabs.com), bringing STLabs service-manageme
 
 ### 🎤 [InterviewReadyNot](https://interviewreadynot.com): A Free AI Mock Interview Nobody Has Passed
 
-A public interview challenge I cofounded with Jinane Amal. Candidates answer six common interview questions out loud in the browser, and five independent AI judges from Anthropic, OpenAI and xAI score every answer without seeing each other's verdicts. Everyone gets a coach report quoting their own words, with notes on filler words, pace and their weakest answer. Passing takes a yes from all five judges, three runs in a row; nobody has passed yet.
+A public interview challenge. Candidates answer six common interview questions out loud in the browser, and five independent AI judges from Anthropic, OpenAI and xAI score every answer without seeing each other's verdicts. Everyone gets a coach report quoting their own words, with notes on filler words, pace and their weakest answer. Passing takes a yes from all five judges, three runs in a row; nobody has passed yet.
 
 | Piece | Detail |
 |---|---|

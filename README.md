@@ -2,9 +2,9 @@
 
 **Building safe infrastructure for the agentic era.**
 
-I design and ship privacy-first, agent-ready systems — from on-device iOS applications to remote Model Context Protocol (MCP) servers. My work sits at the intersection of zero-knowledge encryption, immutable audit trails, and developer-facing AI tooling.
+I design and ship agent-ready systems — from on-device iOS applications to remote Model Context Protocol (MCP) servers.
 
-📍 Nassau Bay, Texas &nbsp;·&nbsp; 🌐 [25x.codes](https://25x.codes) &nbsp;·&nbsp; 🔧 [mcp.undisk.app](https://mcp.undisk.app) &nbsp;·&nbsp; 🎤 [interviewreadynot.com](https://interviewreadynot.com)
+📍 Nassau Bay, Texas &nbsp;·&nbsp; 🌐 [25x.codes](https://25x.codes) &nbsp;·&nbsp;
 
 ---
 
@@ -12,19 +12,12 @@ I design and ship privacy-first, agent-ready systems — from on-device iOS appl
 
 - **Spec-Driven Development (SDD)** — Every feature begins as a machine-readable spec before a single line of code is written. Specifications are the source of truth; code is a derived artifact.
 
----
-
-## Experience
-
-### Engineer · STLabs
-
-Built MCP for [stlabs.com](https://stlabs.com), bringing STLabs service-management workflows into the AI assistants where investigations begin. Agents authenticate through the user's STLabs account, inherit existing permissions and visibility rules, and leave actions in the same audit trail as all other work.
-
-→ [**Bring Your Own Agent: Introducing mcp.stlabs.com**](https://stlabs.com/engineering/bring-your-own-agent)
-
----
 
 ## Flagship Projects
+
+### 🛜 MCP
+
+→ [**Bring Your Own Agent: Introducing mcp.stlabs.com**](https://stlabs.com/engineering/bring-your-own-agent)
 
 ### 🎤 [InterviewReadyNot](https://interviewreadynot.com): A Free AI Mock Interview Nobody Has Passed
 
@@ -121,26 +114,12 @@ Dev Practice    Spec-Driven Development (SDD) · TDD · Immutable infrastructure
                 Tamper-evident audit trails · Content-addressable storage
 ```
 
----
-
-## What I'm Working On
-
-- 🚀 Scaling [Undisk MCP](https://mcp.undisk.app) — SSO (SAML 2.0 + OIDC), Organizations, real-time audit webhook streaming for enterprise SIEM integration
-- 🤝 [E2B partnership](https://mcp.undisk.app/e2b) — $20K compute grant establishing Undisk MCP + E2B as the de facto "Storage + Compute" architecture for AI agents
-- 📱 Growing [Bayan](https://trybayan.com) — expanding the canonical corpus and refining on-device NLP for classical Persian poetry
-- 📐 Evolving Spec-Driven Development tooling — building the workflow where specifications are the source of truth and code is a derived artifact
-
----
-
 ## Connect
 
 | | |
 |---|---|
 | 🌐 **Portfolio** | [25x.codes](https://25x.codes) |
-| 🔧 **Undisk MCP** | [mcp.undisk.app](https://mcp.undisk.app) |
-| 📖 **Bayan** | [trybayan.com](https://trybayan.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/kiarashadl](https://linkedin.com/in/kiarashadl) |
-| 🤖 **Ask my portfolio AI** | `curl https://25x.codes/.well-known/mcp.llmfeed.json` |
 
 ---
 
